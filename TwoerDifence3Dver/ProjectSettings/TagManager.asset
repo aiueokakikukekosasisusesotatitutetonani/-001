@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - Enemy
+  - AttackerPlayer
+  - TankPlayer
+  - WizardPlayer
+  - AttackerEnemy
+  - TankEnemy
+  - WizardEnemy
+  - PlayerTower
+  - EnemyTower
+  - FxTemporaire
+  - APlayer
+  - TPlayer
+  - AEnemy
+  - TEnemy
+  - PlayerMissile
+  - EnemyMissile
+  - EnemyNotSpawnAria
+  - PlayerNotSpawnAria
+  - PlayerRock
+  - EnemyRock
+  - PlayerBarrier
+  - EnemyBarrier
+  - PlayerSword
+  - EnemySword
+  - PlayerPunch
+  - EnemyPunch
+  - APlayerDie
+  - AEnemyDie
+  - TPlayerDie
+  - TEnemyDie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
